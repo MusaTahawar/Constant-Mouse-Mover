@@ -9,7 +9,7 @@ To run this script, you need to have Python and the `pyautogui` library installe
 1. **Clone the repository** to your local machine:
 
     ```shell
-    git clone https://github.com/yourusername/random-mouse-movement.git
+    git clone https://github.com/MusaTahawar/random-mouse-movement.git
     cd random-mouse-movement
     ```
 
